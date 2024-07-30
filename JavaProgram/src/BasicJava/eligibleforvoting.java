@@ -1,7 +1,7 @@
 package BasicJava;
 
 import java.util.Scanner;
-public class eligiblevoting {
+public class eligibleforvoting {
     public static void main(String[] args) {
         System.out.println("Enter your name");
         Scanner sc = new Scanner(System.in);
